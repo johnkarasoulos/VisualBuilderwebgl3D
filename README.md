@@ -1,5 +1,6 @@
 ## Generate WebGL animation using threeJS libraries
 This is a sample Oracle VisualBuilder Application that demonstrates how to create WebGL animation (rotating cube) leveraging threejs libraries (https://threejs.org/).
+
 <img width="250" alt="Screenshot 2024-03-28 at 12 22 13" src="https://github.com/johnkarasoulos/VisualBuilderwebgl3D/assets/25766024/3b7ca8b4-363a-483e-8049-f47c335cbbe5">
 
 Into the main.js file of my web/mobile appliciation, I've included the following code that: 
